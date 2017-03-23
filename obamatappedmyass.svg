@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="142.686mm"
-   height="114.14881mm"
-   viewBox="0 0 142.686 114.14881"
+   width="120.29288mm"
+   height="96.234306mm"
+   viewBox="0 0 120.29288 96.234305"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r"
    sodipodi:docname="obamatappedmyass.svg"
-   inkscape:export-filename="/tmp/na-tomfoolery/render/obamatappedmyass3.png"
+   inkscape:export-filename="/tmp/na-tomfoolery/render/obamatappedmyass2.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-291.7288"
-     inkscape:cy="-156.46217"
+     inkscape:zoom="1.2538267"
+     inkscape:cx="-175.53051"
+     inkscape:cy="118.75496"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,18 +60,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-45.816858,-52.571136)"
+     transform="translate(-55.477566,-67.649311)"
      style="display:none">
     <image
        sodipodi:absref="/tmp/na-tomfoolery/src/Barack Obama Animated Dancing Throwing Money Gif-obama_dancing.jpg"
        xlink:href="src/Barack Obama Animated Dancing Throwing Money Gif-obama_dancing.jpg"
-       width="114.3"
-       height="113.538"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4596"
+       y="89.958069"
        x="56.128094"
-       y="89.958069" />
+       id="image4596"
+       style="opacity:1;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="113.538"
+       width="114.3" />
     <g
        id="layer1-3"
        inkscape:label="Layer 1" />
@@ -80,60 +80,64 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 2"
-     style="display:none"
-     transform="translate(10.311236,37.386933)">
+     style="display:inline"
+     transform="translate(0.6505276,22.308758)">
     <image
        sodipodi:absref="/tmp/na-tomfoolery/src/michelle-obama-dancing.jpg"
        xlink:href="src/michelle-obama-dancing.jpg"
-       width="141.9225"
-       height="113.538"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
+       y="-22.308758"
+       x="-0.6505276"
        id="image4726"
-       x="11.759859"
-       y="-24.321527" />
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="96.234306"
+       width="120.29288" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Layer 3"
-     transform="translate(22.071095,13.065406)">
+     style="display:none"
+     transform="translate(12.410387,-2.0127692)">
     <image
        sodipodi:absref="/tmp/na-tomfoolery/src/obamagrunt.jpg"
        xlink:href="src/obamagrunt.jpg"
-       width="142.686"
-       height="114.14881"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4867"
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       inkscape:export-filename="/tmp/na-tomfoolery/render/obamatappedmyass3.png"
+       y="-13.065406"
        x="-22.071095"
-       y="-13.065406" />
+       id="image4867"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="114.14881"
+       width="142.686" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="text"
      style="display:inline"
-     transform="translate(10.311236,37.386933)">
+     transform="translate(0.6505276,22.308758)">
     <text
-       transform="translate(-56.128094,-89.958069)"
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.42763805px;line-height:12.75625706px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="130.64668"
-       y="146.73158"
-       id="text4601"><tspan
+       style="font-style:normal;font-weight:normal;font-size:12.89953709px;line-height:12.25456047px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80161941"
+       x="51.068066"
+       y="13.863098"
+       id="text4601"
+       transform="scale(0.8111158,1.2328696)"><tspan
          sodipodi:role="line"
-         x="130.64668"
-         y="146.73158"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.53246307px;line-height:12.75625706px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none"
+         x="51.068062"
+         y="13.863098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03956795px;line-height:12.25456047px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80161941"
          id="tspan4603"><tspan
    dy="0"
    id="tspan4611"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.53246307px;line-height:12.75625706px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none">Obama </tspan>Tapped</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03956795px;line-height:12.25456047px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80161941">Obama </tspan>Tapped</tspan><tspan
          sodipodi:role="line"
-         x="130.64668"
-         y="160.71304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.53246307px;line-height:12.75625706px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none"
+         x="51.068066"
+         y="27.29467"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03956795px;line-height:12.25456047px;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80161941"
          id="tspan4607">My ASS!</tspan></text>
   </g>
 </svg>
